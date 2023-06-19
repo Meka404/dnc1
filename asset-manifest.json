@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/dnc1/static/css/main.651399c5.css",
-    "main.js": "/dnc1/static/js/main.4b3d55ec.js",
+    "main.css": "/dnc1/static/css/main.c80d4242.css",
+    "main.js": "/dnc1/static/js/main.65711353.js",
+    "static/media/construccion.jpg": "/dnc1/static/media/construccion.5c50347926b2cdb32f52.jpg",
     "static/media/grupo.jpg": "/dnc1/static/media/grupo.5e6d61f0dc46508c1a45.jpg",
     "static/media/televisiva1.jpg": "/dnc1/static/media/televisiva1.9967092dfddb6a1dfe94.jpg",
     "static/media/televisiva3.jpg": "/dnc1/static/media/televisiva3.79c7da9beae4067ee4ce.jpg",
-    "static/media/fondo-negro2.jpg": "/dnc1/static/media/fondo-negro2.fa6c455cbec2a3f793f9.jpg",
     "static/media/televisiva2.jpg": "/dnc1/static/media/televisiva2.460cdeefa07b6b1da37d.jpg",
     "static/media/topografia.jpg": "/dnc1/static/media/topografia.ebd49d765c2bab2ff4c0.jpg",
     "static/media/televisiva.jpg": "/dnc1/static/media/televisiva.c0a6e28ac15899aca7a7.jpg",
@@ -13,17 +13,21 @@
     "static/media/limpieza.jpg": "/dnc1/static/media/limpieza.62bc91d1b0292124d3f4.jpg",
     "static/media/banner.jpg": "/dnc1/static/media/banner.5397d7d7f4100d73baea.jpg",
     "static/media/empresas.jpg": "/dnc1/static/media/empresas.04cc9d4f51b6f5ed8803.jpg",
+    "static/media/gitec.jpg": "/dnc1/static/media/gitec.d5894d8aa89765885e9d.jpg",
     "static/media/logo1.png": "/dnc1/static/media/logo1.655a5ab5224ae85694ea.png",
+    "static/media/controloria.jpg": "/dnc1/static/media/controloria.90ecefa1ff75dadf8732.jpg",
+    "static/media/logo_sedapal.jpg": "/dnc1/static/media/logo_sedapal.7dd99e91059ebf46a33c.jpg",
+    "static/media/ministerio.jpg": "/dnc1/static/media/ministerio.e1fe5ac109e51f474138.jpg",
     "static/media/logo4.jpg": "/dnc1/static/media/logo4.9168c14cac83129ca333.jpg",
     "static/media/revicons.eot": "/dnc1/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/dnc1/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/dnc1/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/dnc1/index.html",
-    "main.651399c5.css.map": "/dnc1/static/css/main.651399c5.css.map",
-    "main.4b3d55ec.js.map": "/dnc1/static/js/main.4b3d55ec.js.map"
+    "main.c80d4242.css.map": "/dnc1/static/css/main.c80d4242.css.map",
+    "main.65711353.js.map": "/dnc1/static/js/main.65711353.js.map"
   },
   "entrypoints": [
-    "static/css/main.651399c5.css",
-    "static/js/main.4b3d55ec.js"
+    "static/css/main.c80d4242.css",
+    "static/js/main.65711353.js"
   ]
 }
