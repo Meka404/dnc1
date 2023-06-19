@@ -1,0 +1,65 @@
+
+.two-column {
+    padding-top: 100px;
+    padding-bottom: 770px;
+    height: 900px;
+
+    display: flex;
+   
+  }
+
+
+  .two-column img{
+    width: 500px;
+    height: 700px !important;
+
+  }
+
+
+
+  .column {
+    flex: 1;
+    padding: 20px;
+    animation: zoomIn; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 3s; /* don't forget to set a duration! */
+  }
+  
+  .column:first-child {
+    padding-top: 240px;
+    background-color: white;
+    text-align: justify;
+  }
+  
+  .column:last-child {
+   /* background-color: #f1f1f1;*/
+   background-color: white;
+  }
+  
+  .column img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  
+  
+
+  
+  .column h3{
+    color: black;
+    font-size: 45px;
+    font-weight: 700;
+    font-family:Vegur	;
+    margin-bottom: 16px;
+    text-align: center;
+
+    animation: zoomIn; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 3s; /* don't forget to set a duration! */
+  }
+
+
+  .column p{
+    color: black;
+    font-family:Vegur	;
+   /* animation: zoomIn; /* referring directly to the animation's @keyframe declaration */
+    /*animation-duration: 3s; /* don't forget to set a duration! */
+  }

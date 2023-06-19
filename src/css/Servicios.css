@@ -1,0 +1,58 @@
+
+.servicios{
+    background: #f1f1f1;
+    margin-top: 100px;
+    margin-bottom: 200px;
+    border-radius: 64px;
+    /*padding: 0 0 50px 0;*/
+    padding-top: 10px;
+    position: relative;
+  }
+  .servicios-bx{
+    
+    border-radius: 64px;
+    text-align: center;
+    padding: 100px 50px;
+    margin-top: -60px;
+  }
+  
+  
+  .servicios h2{
+    font-size: 45px;
+    font-weight: 700;
+  }
+  
+  .servicios p{
+    color: black;
+    font-size: 18px;
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+    margin: 14px 0px 75px 0;
+  }
+  .servicios-slider{
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+  }
+  
+  
+  .servicios-slider .item img{
+    width: 80%;
+    margin: 0 auto 100px auto;
+  }
+  
+  
+  
+  .background-image-left{
+    top: 28%;
+    position: absolute;
+    bottom: 0;
+    width: 40%;
+    z-index: -4;
+  }
+  
+
+  .servicios img{
+    width: 500px;
+    height: 400px !important;
+  }

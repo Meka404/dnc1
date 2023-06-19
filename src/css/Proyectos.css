@@ -1,0 +1,41 @@
+  .proyectos {
+    /* Estilos del contenedor de proyectos */
+    color: #f1f1f1;
+    padding-bottom: 300px;
+    padding-top: 10px;
+  }
+  .proyectos img{
+
+    width: 200px;
+    height: 200px;
+  }
+  .filter-buttons {
+    margin-bottom: 20px;
+  }
+  
+  .filter-buttons button {
+    margin-right: 10px;
+    padding: 6px 10px;
+    background-color: #f1f1f1;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .filter-buttons button.active {
+    background-color: #ddd;
+  }
+  .proyectos p{
+    color: black;
+
+  }
+
+
+  .projects-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 100px;
+  }
+  
+  .project-item {
+    text-align: center;
+  }
