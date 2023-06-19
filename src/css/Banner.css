@@ -36,7 +36,7 @@
   
   .banner-content {
     text-align: center;
-    color: black; /* Ajusta el color de texto según tus necesidades */
+    color: white; /* Ajusta el color de texto según tus necesidades */
     padding-top: 0px;
   }
   
@@ -62,7 +62,7 @@
     margin-top: 0px;
     margin-bottom: 100px;
     font-size: 20px;
-    color:  black;
+    color:  white;
     font-weight: 700;
     letter-spacing: 0.8px;
     line-height: 1;
@@ -80,7 +80,7 @@
     font-size: 50px;
     font-weight: 700;
     letter-spacing: 0.8px;
-    color: black;
+    color: white;
     line-height: 1;
     margin-bottom: 20px;
     display: block;
@@ -90,7 +90,7 @@
   }
   
   .banner p {
-    color:black;
+    color:white;
     font-size: 18px;
     letter-spacing: 0.8px;
     line-height: 1.5em;
