@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/dnc1/static/css/main.56c2ff8a.css",
+    "main.js": "/dnc1/static/js/main.cd18eee9.js",
+    "static/media/grupo.jpg": "/dnc1/static/media/grupo.5e6d61f0dc46508c1a45.jpg",
+    "static/media/televisiva1.jpg": "/dnc1/static/media/televisiva1.9967092dfddb6a1dfe94.jpg",
+    "static/media/televisiva3.jpg": "/dnc1/static/media/televisiva3.79c7da9beae4067ee4ce.jpg",
+    "static/media/fondo2.jpg": "/dnc1/static/media/fondo2.ad7e439c8c33b4c5365e.jpg",
+    "static/media/televisiva2.jpg": "/dnc1/static/media/televisiva2.460cdeefa07b6b1da37d.jpg",
+    "static/media/topografia.jpg": "/dnc1/static/media/topografia.ebd49d765c2bab2ff4c0.jpg",
+    "static/media/televisiva.jpg": "/dnc1/static/media/televisiva.c0a6e28ac15899aca7a7.jpg",
+    "static/media/dnc.jpg": "/dnc1/static/media/dnc.bf113dd4e9ac1c07f77c.jpg",
+    "static/media/limpieza.jpg": "/dnc1/static/media/limpieza.62bc91d1b0292124d3f4.jpg",
+    "static/media/banner.jpg": "/dnc1/static/media/banner.5397d7d7f4100d73baea.jpg",
+    "static/media/empresas.jpg": "/dnc1/static/media/empresas.04cc9d4f51b6f5ed8803.jpg",
+    "static/media/logo1.png": "/dnc1/static/media/logo1.655a5ab5224ae85694ea.png",
+    "static/media/logo4.jpg": "/dnc1/static/media/logo4.9168c14cac83129ca333.jpg",
+    "static/media/revicons.eot": "/dnc1/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/dnc1/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/dnc1/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/dnc1/index.html",
+    "main.56c2ff8a.css.map": "/dnc1/static/css/main.56c2ff8a.css.map",
+    "main.cd18eee9.js.map": "/dnc1/static/js/main.cd18eee9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56c2ff8a.css",
+    "static/js/main.cd18eee9.js"
+  ]
+}
