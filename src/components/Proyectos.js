@@ -96,18 +96,25 @@ export const Proyectos = () => {
         >
           Todos nuestros proyectos
         </button>
+       
+       
+       {/*
         <button
           className={activeFilter === "remodeling" ? "active" : ""}
           onClick={() => handleFilterClick("remodeling")}
         >
           Remodeling
         </button>
+  */}
+
+
+       { /*
         <button
           className={activeFilter === "repairs" ? "active" : ""}
           onClick={() => handleFilterClick("repairs")}
         >
           Repairs
-        </button>
+  </button>*/}
       </div>
       {renderProjects()}
     </div>
