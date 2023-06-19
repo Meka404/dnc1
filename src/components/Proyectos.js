@@ -83,6 +83,7 @@ export const Proyectos = () => {
   };
 
   return (
+    <div className="proyect">
     <Container>
     <div className="proyectos" id="proyectos">
       <h2>Nuestros Proyectos</h2>
@@ -111,5 +112,6 @@ export const Proyectos = () => {
       {renderProjects()}
     </div>
     </Container>
+    </div>
   );
 };

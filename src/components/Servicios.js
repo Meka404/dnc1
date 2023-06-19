@@ -31,7 +31,11 @@ export const Servicios = () => {
                 <Row>
                     <Col>
                         <div className="servicios-bx">
-                            <h2>Nuestros Servicios </h2>
+                            <h2>
+                              
+                              Nuestros Servicios 
+                            
+                              </h2>
                             <p>en nuestra empresa ofrecemos los siguientes servicios</p>
                             <Carousel responsive={responsive} infinite={true} className="servicios-slider">
                                 <div className="item">

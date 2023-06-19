@@ -2,44 +2,64 @@
 .banner {
     margin-top: 0px;
     /*padding: 700px 0 100px 0;*/
-    
-    background-image: url('../assets/fondo-negro2.jpg');
+    background-attachment: fixed;
+
+    background-image: url('../assets/construccion.jpg');
     background-color: white; 
     background-size: contain;
   
     /*background-blend-mode: overlay;*/
     background-position: top center;
-    background-size: 100% auto;;
+    background-size: 100% 80%;;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    opacity: 1;
+    /*opacity: 0.4;*/
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 100px 200px;
-    height: 100vh;
+    padding: 100px 50%;
+    height: 80vh;
     image-rendering: crisp-edges;
   }
-/*
-  
+
+  .banner h2 {
+    
+    /*mix-blend-mode: difference;*/
+    margin-top: 50%;
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: 0.8px;
+    color:white;
+    /*opacity: 1;*/
+    line-height: 1;
+    margin-bottom: 20px;
+    display: block;
+    animation: zoomIn; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 5s; /* don't forget to set a duration! */
+    font-family:Vegur	;
+    z-index: 1;
+  }
   .banner::before{
     content: "";
     position: absolute;
     background: rgba(0, 0, 0, 0.685); 
-    opacity: 1;
-    z-index: 1;
+    opacity: 0.4;
+    z-index: -1;
     top: 0;
     left: 0;
     width: 100%;
-    height: 900px;
-  }*/
+    height: 80vh;
+  }
   
   .banner-content {
     text-align: center;
     color: white; /* Ajusta el color de texto según tus necesidades */
     padding-top: 0px;
+   
+
+    
   }
-  
+
   
   .banner .tagline {
    
@@ -59,10 +79,10 @@
   
   
   .banner h1 {
-    margin-top: 0px;
+    margin-top: 10px;
     margin-bottom: 100px;
     font-size: 20px;
-    color:  white;
+    color:  rgb(30, 37, 131);
     font-weight: 700;
     letter-spacing: 0.8px;
     line-height: 1;
@@ -76,21 +96,10 @@
     animation-duration: 3s; /* don't forget to set a duration! */
   }
   
-  .banner h2 {
-    font-size: 50px;
-    font-weight: 700;
-    letter-spacing: 0.8px;
-    color: white;
-    line-height: 1;
-    margin-bottom: 20px;
-    display: block;
-    animation: zoomIn; /* referring directly to the animation's @keyframe declaration */
-    animation-duration: 5s; /* don't forget to set a duration! */
-    font-family:Vegur	;
-  }
+ 
   
   .banner p {
-    color:white;
+    color:rgb(30, 37, 131);
     font-size: 18px;
     letter-spacing: 0.8px;
     line-height: 1.5em;

@@ -1,27 +1,40 @@
 
 .servicios{
-    background: #f1f1f1;
+    background: white;
     margin-top: 100px;
-    margin-bottom: 200px;
+    margin-bottom: 80px;
     border-radius: 64px;
     /*padding: 0 0 50px 0;*/
     padding-top: 10px;
     position: relative;
+    width: 100%;
+    height: 100%;
   }
   .servicios-bx{
     
     border-radius: 64px;
     text-align: center;
     padding: 100px 50px;
-    margin-top: -60px;
+    margin-top: -60px;   
   }
-  
-  
+  .servicios h2:before,.servicios h2:after {
+    margin: 0 15px 10px 10px;
+}
+  .servicios h2:before,.servicios h2:after{
+    content: "";
+    width: 50px;
+    height: 4px;
+    background: rgb(30, 37, 131);
+    display: inline-block;
+    
+  }
   .servicios h2{
     font-size: 45px;
     font-weight: 700;
   }
-  
+  ::after, ::before {
+    box-sizing: border-box;
+}
   .servicios p{
     color: black;
     font-size: 18px;

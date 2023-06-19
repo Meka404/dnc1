@@ -2,7 +2,7 @@ nav.navbar.scrolled {
     padding: 8px 0;
     
     background-color: white;
-    opacity: 0.6;
+    opacity: 1;
     
   }
   
@@ -54,6 +54,7 @@ nav.navbar.scrolled {
   }
 .navbar{
   background-color: white;
+  
 }
 
 
