@@ -6,7 +6,7 @@ export const Banner=()=>{
   
     return(
         
-        <section className="banner" id="home">
+        <section className="banner user-scalable=no" id="home">
          
         <div className="banner-content">
           <Container>
