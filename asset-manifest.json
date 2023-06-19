@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dnc1/static/css/main.651399c5.css",
-    "main.js": "/dnc1/static/js/main.cd18eee9.js",
+    "main.js": "/dnc1/static/js/main.4b3d55ec.js",
     "static/media/grupo.jpg": "/dnc1/static/media/grupo.5e6d61f0dc46508c1a45.jpg",
     "static/media/televisiva1.jpg": "/dnc1/static/media/televisiva1.9967092dfddb6a1dfe94.jpg",
     "static/media/televisiva3.jpg": "/dnc1/static/media/televisiva3.79c7da9beae4067ee4ce.jpg",
@@ -20,10 +20,10 @@
     "static/media/revicons.woff": "/dnc1/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/dnc1/index.html",
     "main.651399c5.css.map": "/dnc1/static/css/main.651399c5.css.map",
-    "main.cd18eee9.js.map": "/dnc1/static/js/main.cd18eee9.js.map"
+    "main.4b3d55ec.js.map": "/dnc1/static/js/main.4b3d55ec.js.map"
   },
   "entrypoints": [
     "static/css/main.651399c5.css",
-    "static/js/main.cd18eee9.js"
+    "static/js/main.4b3d55ec.js"
   ]
 }
