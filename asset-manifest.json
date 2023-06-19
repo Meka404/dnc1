@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dnc1/static/css/main.c80d4242.css",
-    "main.js": "/dnc1/static/js/main.65711353.js",
+    "main.css": "/dnc1/static/css/main.fdcf235c.css",
+    "main.js": "/dnc1/static/js/main.76863191.js",
     "static/media/construccion.jpg": "/dnc1/static/media/construccion.5c50347926b2cdb32f52.jpg",
     "static/media/grupo.jpg": "/dnc1/static/media/grupo.5e6d61f0dc46508c1a45.jpg",
     "static/media/televisiva1.jpg": "/dnc1/static/media/televisiva1.9967092dfddb6a1dfe94.jpg",
@@ -23,11 +23,11 @@
     "static/media/revicons.ttf": "/dnc1/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/dnc1/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/dnc1/index.html",
-    "main.c80d4242.css.map": "/dnc1/static/css/main.c80d4242.css.map",
-    "main.65711353.js.map": "/dnc1/static/js/main.65711353.js.map"
+    "main.fdcf235c.css.map": "/dnc1/static/css/main.fdcf235c.css.map",
+    "main.76863191.js.map": "/dnc1/static/js/main.76863191.js.map"
   },
   "entrypoints": [
-    "static/css/main.c80d4242.css",
-    "static/js/main.65711353.js"
+    "static/css/main.fdcf235c.css",
+    "static/js/main.76863191.js"
   ]
 }
