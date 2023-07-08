@@ -1,0 +1,29 @@
+.navigation-container {
+
+    top: 200px;
+    width: 100%;
+    z-index: 999;
+  }
+  
+  .navegacion3 {
+    background-color: #1065b9;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 600;
+  }
+  
+  .navegacion3 a {
+    color: #333;
+    text-decoration: none;
+    margin-right: 20px;
+  }
+  
+  .navegacion3 a:hover {
+    color: #007bff;
+  }
+  
+  @media (max-width: 768px) {
+    .navegacion3 {
+      font-size: 14px;
+    }
+  }

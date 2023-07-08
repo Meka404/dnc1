@@ -28,7 +28,7 @@ import {Portada3} from './components/Portada3';
 import {Mision} from './components/Mision';
 import {Portada4} from './components/Portada4';
 import {Navigation2} from './components/Navigation2';
-
+import {Navigation3} from './components/Navigation3';
 
 //
 function App() {
@@ -36,7 +36,8 @@ function App() {
     <div className="App">
       
       <Navigation2/>
-     
+      <Navigation3/>
+
       <Portada4/>
       <Mision/>
 

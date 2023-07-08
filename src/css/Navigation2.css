@@ -1,34 +1,51 @@
-.bg-body-tertiary {
-  background-color: red;
+.nav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  color: black;
+  padding-top: 30px;
+  padding-bottom: 70px;
+  background-color: white;
 }
 
-.navbar-container {
+.contact-info {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  margin-left: auto;
 }
 
-.logo {
+.phone,
+.email {
   display: flex;
   align-items: center;
-}
-
-.logo img {
-  width: 50px;
-  height: 50px;
   margin-right: 10px;
 }
 
-.navbar-nav .nav-link {
-  color: white;
-  margin-right: 10px;
+.icon {
+  margin-right: 5px;
+  width: 30px;
+  height: 30px;
 }
 
-.navbar-nav .nav-link:hover {
-  color: white;
-  opacity: 0.8;
+.social-media {
+  display: flex;
+  align-items: center;
 }
 
-.navbar-nav .nav-link:last-child {
-  margin-right: 0;
+.icon-facebook {
+
+  background-color: aqua;
+ 
+  margin-right: 5px;
+
+}
+
+.icon-phone {
+  color: green; /* Cambia el color del ícono del teléfono a verde */
+  font-size: 20px;
+  margin-right: 5px;
+}
+.logo img{
+  width: 200px;
+  height: 80px;
 }
