@@ -1,0 +1,33 @@
+.columnas-container {
+
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .columna {
+    flex: 1;
+    padding: 50px;
+  }
+  .columna:nth-child(1) {
+  background-color: #006489;
+  color: white;
+  
+}
+
+.columna:nth-child(2) {
+  /*background-color: #0488b8;*/
+  background-color: rgba(19, 15, 15, 0.808);
+  
+
+  color: white;
+}
+  .columna h2 {
+    font-size: 20px;
+    color: white;
+  }
+  
+  .columna p {
+    font-size: 16px;
+    color: white;
+  }

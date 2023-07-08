@@ -1,12 +1,13 @@
 .clientes{
-    padding-top: 50px;
-    padding-bottom: 100px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+  
 }
 .clientes .client-logo img {
     filter: grayscale(100%);
     transition: filter 0.3s;
-    height: 100px;
-    width: 200px;
+    height: 50px;
+    width: 100px;
   }
   
   .clientes .client-logo:hover img {

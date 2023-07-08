@@ -1,7 +1,8 @@
 nav.navbar.scrolled {
     padding: 8px 0;
     
-    background-color: white;
+    /*background-color: #006489;*/
+background-color: #266e20;
     opacity: 1;
     
   }
@@ -9,7 +10,7 @@ nav.navbar.scrolled {
   nav.navbar.scrolled .navbar-nav .nav-link.navbar-link  {
     font-weight: 10;
     
-    color: black !important;
+    color: white !important;
     letter-spacing: 1px;
     padding: 0 20px;
     font-size: 15px;
@@ -17,8 +18,10 @@ nav.navbar.scrolled {
   }
   nav.navbar .navbar-nav .nav-link.navbar-link {
     font-weight: 10;
-    background: white;
-    color: black !important;
+   /*background: white;*/
+    /*background-color: green;*/
+
+    color: white !important;
     letter-spacing: 1px;
     padding: 0 20px;
     font-size: 15px;
@@ -53,8 +56,18 @@ nav.navbar.scrolled {
     color: #e2941e !important;
   }
 .navbar{
-  background-color: white;
+  background-color: #006489
+  /*background-color: white;*/
   
 }
+
+
+
+
+
+
+
+
+
 
 

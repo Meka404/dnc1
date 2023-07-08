@@ -15,7 +15,7 @@ export const Nosotros = () => {
             <div className="column" id="nosotros">
               <h3>DNC Construcciones</h3>
               <p> 
-                empresa comprometida con el desarrollo ético y sostenible de su
+                Empresa comprometida con el desarrollo ético y sostenible de su
                 actividad principal: consultoría y construcción, su alto nivel técnico
                 de sus profesionales debidamente capacitados y en continua
                 preparación, se reflejan en el desarrollo de sus múltiples servicios,
