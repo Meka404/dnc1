@@ -37,7 +37,7 @@ export const Nosotros = () => {
             </div>
           </Col>
         </Row>
-     
+      
     </div>
   );
 };
