@@ -16,7 +16,7 @@ export const Portada4 = () => {
         <Carousel.Item interval={3000}>
           <img className="d-block w-100" src={red1} alt="First slide" />
           <Carousel.Caption>
-            <h3>INSPECCION TELEVISIVA</h3>
+            <h3>First slide label</h3>
             <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
           </Carousel.Caption>
         </Carousel.Item>
