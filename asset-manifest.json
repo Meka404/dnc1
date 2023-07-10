@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dnc1/static/css/main.5ceaa5bc.css",
-    "main.js": "/dnc1/static/js/main.f9b510a9.js",
+    "main.css": "/dnc1/static/css/main.c6f76bf0.css",
+    "main.js": "/dnc1/static/js/main.98f1265c.js",
     "static/media/foto8.jpg": "/dnc1/static/media/foto8.ba3e7b558badc1cf0429.jpg",
     "static/media/construccion.jpg": "/dnc1/static/media/construccion.5c50347926b2cdb32f52.jpg",
     "static/media/grupo.jpg": "/dnc1/static/media/grupo.5e6d61f0dc46508c1a45.jpg",
@@ -32,11 +32,11 @@
     "static/media/revicons.ttf": "/dnc1/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/dnc1/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/dnc1/index.html",
-    "main.5ceaa5bc.css.map": "/dnc1/static/css/main.5ceaa5bc.css.map",
-    "main.f9b510a9.js.map": "/dnc1/static/js/main.f9b510a9.js.map"
+    "main.c6f76bf0.css.map": "/dnc1/static/css/main.c6f76bf0.css.map",
+    "main.98f1265c.js.map": "/dnc1/static/js/main.98f1265c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ceaa5bc.css",
-    "static/js/main.f9b510a9.js"
+    "static/css/main.c6f76bf0.css",
+    "static/js/main.98f1265c.js"
   ]
 }
