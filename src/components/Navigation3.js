@@ -9,7 +9,7 @@ import "../css/Navigation3.css";
 export const Navigation3 = () => {
   return (
     <Container className="navega3">
-      <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+    
 
           <Nav className="navega33 ml-auto">
             <Nav.Link href="#home">INICIO</Nav.Link>
