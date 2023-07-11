@@ -106,8 +106,8 @@ export const Proyectos = () => {
     <Container>
     <div className="proyectos" id="proyectos">
       <h2>Nuestros Proyectos</h2>
-      <br></br>
-      <br></br>
+   
+      
 
       <div className="filter-buttons">
         {/*<button
@@ -144,3 +144,4 @@ export const Proyectos = () => {
     </div>
   );
 };
+  
